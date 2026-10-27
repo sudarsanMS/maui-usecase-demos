@@ -44,7 +44,3 @@ public partial class TheatersView : ContentPage
         await Shell.Current.GoToAsync("seat-selection");
     }
 }
-<<<<<<< HEAD
-
-=======
->>>>>>> 6a2689487b2fbc959e99f2c96c37584198555835
